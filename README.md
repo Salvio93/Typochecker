@@ -1,5 +1,5 @@
 # TypoChecker
- Outil de relecture typographique intelligente pour Les Scouts ASBL
+ Outil de relecture typographique intelligente pour une ASBL
 
 # Prérequis
 installer python 3.12 https://www.python.org/downloads/ \
@@ -7,7 +7,7 @@ installer git         https://git-scm.com/downloads
 
 # Installation
 ```bash
-git clone https://github.com/PaulUnamur/TypoChecker
+git clone https://github.com/Salvio93/TypoChecker
 cd TypoChecker
 pip install -r .\requirements.txt
 ```
